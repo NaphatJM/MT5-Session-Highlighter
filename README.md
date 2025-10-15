@@ -210,6 +210,34 @@ NewYork_Color = C'72, 49, 49, 220';  // Semi-transparent red
 - **Issues:** [Create GitHub Issue](https://github.com/NaphatJM/SessionHighlight/issues)
 - **Version:** 1.0
 
+## 📜 License & Credit
+
+### 📋 Free to Use
+This indicator is **completely FREE** to use for personal and commercial trading.
+
+### ⭐ Credit Required
+**IMPORTANT:** If you use, modify, or share this indicator, please give credit to the original author:
+
+```
+Original Author: NaphatJM
+Repository: https://github.com/NaphatJM/MT5-Session-Highlighter
+```
+
+### 🔄 Sharing & Distribution
+- ✅ Free to share with friends and trading communities
+- ✅ Free to modify for personal use
+- ✅ Free to use in commercial trading
+- ⚠️ **Must include credit to original author**
+- ❌ Cannot claim as your own work
+- ❌ Cannot sell without permission
+
+### 🤝 Contributing
+Contributions are welcome! Please:
+1. Fork the repository
+2. Create your feature branch
+3. Submit a pull request
+4. Keep original author credit intact
+
 ## 📝 Updates
 
 ### v1.0 (Current)
@@ -428,6 +456,34 @@ NewYork_Color = C'72, 49, 49, 220';  // สีแดงโปร่งใส
 - **GitHub:** [https://github.com/NaphatJM](https://github.com/NaphatJM)
 - **Email:** [ติดต่อผ่าน GitHub Issues](https://github.com/NaphatJM/SessionHighlight/issues)
 - **Version:** 1.0
+
+## 📜 ลิขสิทธิ์และการให้เครดิต
+
+### 📋 ฟรีสำหรับการใช้งาน
+Indicator นี้ **ฟรี 100%** สำหรับการใช้งานส่วนตัวและการเทรดเชิงพาณิชย์
+
+### ⭐ ต้องให้เครดิตเสมอ
+**สำคัญมาก:** หากคุณใช้งาน แก้ไข หรือแชร์ indicator นี้ กรุณาให้เครดิตผู้สร้างเสมอ:
+
+```
+ผู้สร้างต้นฉบับ: NaphatJM
+Repository: https://github.com/NaphatJM/MT5-Session-Highlighter
+```
+
+### 🔄 การแชร์และเผยแพร่
+- ✅ แชร์ให้เพื่อนและชุมชนเทรดได้ฟรี
+- ✅ แก้ไขเพื่อใช้งานส่วนตัวได้ฟรี
+- ✅ ใช้งานเพื่อการเทรดเชิงพาณิชย์ได้ฟรี
+- ⚠️ **ต้องระบุเครดิตผู้สร้างต้นฉบับเสมอ**
+- ❌ ห้ามอ้างว่าเป็นผลงานของตัวเอง
+- ❌ ห้ามขายโดยไม่ได้รับอนุญาต
+
+### 🤝 การมีส่วนร่วม
+ยินดีรับการมีส่วนร่วม! กรุณา:
+1. Fork repository
+2. สร้าง feature branch ของคุณ
+3. ส่ง pull request
+4. เก็บเครดิตผู้สร้างต้นฉบับไว้
 
 ## 📝 การอัพเดต
 
