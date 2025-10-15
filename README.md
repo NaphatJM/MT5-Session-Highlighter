@@ -9,6 +9,8 @@
 ## English
 A custom indicator for MetaTrader 5 that highlights major trading sessions (Asian, London, and New York) with customizable colors and labels.
 
+**Note:** The Asian Session includes both Sydney and Tokyo market hours for comprehensive Asia-Pacific coverage.
+
 ## 🌟 Features
 
 - ✅ Display Asian Session highlighting
@@ -247,7 +249,6 @@ Contributions are welcome! Please:
 - ✅ Session labels
 
 ### Future (Planned)
-- 🔄 Sydney Session
 - 🔄 Session entry alerts
 - 🔄 Session overlap display
 - 🔄 Preset color templates
@@ -494,7 +495,6 @@ Repository: https://github.com/NaphatJM/MT5-Session-Highlighter
 - ✅ ป้ายชื่อ Session
 
 ### อนาคต (Planned)
-- 🔄 Sydney Session
 - 🔄 การแจ้งเตือนเมื่อเข้า Session
 - 🔄 แสดงช่วงเวลา Overlap
 - 🔄 Template สีสำเร็จรูป
