@@ -277,7 +277,7 @@
 ### 📞 การสนับสนุน / Support
 
 **หากมีปัญหาเพิ่มเติม / If you need additional help:**
-- 🐛 [Create GitHub Issue](https://github.com/NaphatJM/SessionHighlight/issues)
+- 🐛 [Create GitHub Issue](https://github.com/NaphatJM/MT5-Session-Highlighter/issues)
 - 📧 [Contact via GitHub](https://github.com/NaphatJM)
 
 **เอกสารเพิ่มเติม / Additional Documentation:**

@@ -1,7 +1,7 @@
 # Session Highlighter Indicator v1.0
 
 [![MT5](https://img.shields.io/badge/Platform-MT5-blue.svg)](https://www.metatrader5.com/)
-[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/NaphatJM/SessionHighlight)
+[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/NaphatJM/MT5-Session-Highlighter)
 
 > 📖 **Language:** [English](#english) | [ไทย (Thai)](#thai) | [How to Use](HowToUse.md)
 
@@ -209,7 +209,7 @@ NewYork_Color = C'72, 49, 49, 220';  // Semi-transparent red
 ## 📞 Contact & Support
 
 - **GitHub:** [https://github.com/NaphatJM](https://github.com/NaphatJM)
-- **Issues:** [Create GitHub Issue](https://github.com/NaphatJM/SessionHighlight/issues)
+- **Issues:** [Create GitHub Issue](https://github.com/NaphatJM/MT5-Session-Highlighter/issues)
 - **Version:** 1.0
 
 ## 📜 License & Credit
@@ -255,7 +255,7 @@ Contributions are welcome! Please:
 
 ---
 
-**⚡ For issues or suggestions, please [create an Issue](https://github.com/NaphatJM/SessionHighlight/issues) on GitHub**
+**⚡ For issues or suggestions, please [create an Issue](https://github.com/NaphatJM/MT5-Session-Highlighter/issues) on GitHub**
 
 ## Thai
 
@@ -455,7 +455,7 @@ NewYork_Color = C'72, 49, 49, 220';  // สีแดงโปร่งใส
 ## 📞 การติดต่อและสนับสนุน
 
 - **GitHub:** [https://github.com/NaphatJM](https://github.com/NaphatJM)
-- **Email:** [ติดต่อผ่าน GitHub Issues](https://github.com/NaphatJM/SessionHighlight/issues)
+- **Email:** [ติดต่อผ่าน GitHub Issues](https://github.com/NaphatJM/MT5-Session-Highlighter/issues)
 - **Version:** 1.0
 
 ## 📜 ลิขสิทธิ์และการให้เครดิต
@@ -501,4 +501,4 @@ Repository: https://github.com/NaphatJM/MT5-Session-Highlighter
 
 ---
 
-**⚡ หากมีปัญหาหรือข้อเสนอแนะ กรุณา [สร้าง Issue](https://github.com/NaphatJM/SessionHighlight/issues) ใน GitHub**
+**⚡ หากมีปัญหาหรือข้อเสนอแนะ กรุณา [สร้าง Issue](https://github.com/NaphatJM/MT5-Session-Highlighter/issues) ใน GitHub**
